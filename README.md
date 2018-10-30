@@ -7,8 +7,8 @@ general manner so that the key can be anything at all.  Each node of
 the balanced binary tree must contain a key and a pointer to info.
 The user defines what data-type the key is and provides a comparison
 function for the keys.  The info can also be any kind of data type.
-You might also want to take a look at the C++ version of red black
-trees and interval trees.
+You might also want to take a look at the [cpp_trees](https://github.com/emin63/cpp_trees)
+repo which contains C++ version of red black trees and interval trees.
 
 # Thanks
 
